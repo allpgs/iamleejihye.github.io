@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          All PGS
 baseurl:        ""
-url:            "https://www.jihyeleee.com"
+url:            "https://allpgs.ga"
 
 # Assets
 sass:
@@ -16,13 +16,12 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name:         All PGS
+  url:          https://allpgs.ga
+  email:        kms0219kms@naver.com
+  github:       kms0219kms
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/allpgs/allpgs.github.io
