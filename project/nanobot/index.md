@@ -16,7 +16,7 @@ role-specific: ""
 team: "웹 퍼블리셔 1명, 디스코드 봇 개발자 1명"
 platforms: "Web"
 date: "DEC 2020 - "
-order: 2
+order: 3
 ---
 
 # Overview
